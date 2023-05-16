@@ -1,7 +1,7 @@
 extend: s.yaml
 
 services:
-  access:
+  access-1:
     props:
       service:
         logConfig:
